@@ -1,6 +1,7 @@
 # 📱 NewsApp
 
-**NewsApp** is a simple Android application for browsing news. It fetches data from the [NewsAPI](https://newsapi.org/) and stores articles in a local SQLite database.
+## **NewsApp** is a simple Android application for browsing news. It fetches data from the [NewsAPI](https://newsapi.org/) and stores articles in a local SQLite database.
+
 ---
 
 ## 📌 Description
